@@ -1,8 +1,8 @@
 {
   "name": "wrasse-duck-rest",
   "version": "1.0.0",
-  "description": "Create rest based duck",
-  "main": "src/index.js",
+  "description": "Create rest based duck.",
+  "main": "lib/wrasseDuckRest.js",
   "scripts": {
     "test": "./node_modules/.bin/jest",
     "test-unit-all": "npm run test -- unit"
